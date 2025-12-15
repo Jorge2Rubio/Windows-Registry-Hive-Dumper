@@ -1,4 +1,4 @@
-\## Description
+## Description
 
 
 
@@ -6,7 +6,7 @@ Silent Windows registry hive stealer - When run as Administrator, this tool auto
 
 
 
-\## Usage
+## Usage
 
 
 
